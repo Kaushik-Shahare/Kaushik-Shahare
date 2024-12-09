@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushik-shahare" alt="kaushik-shahare" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
-- 🔭 I’m currently working on **AgriConnect**, a Farmer app to help them sell their products and connect with other farmers.
+- 🔭 I’m currently working on **AgriConnect**, **MiniMilitia Web**
 
 - 🌱 I’m currently learning **AI/ML, CI/CD**.
 
