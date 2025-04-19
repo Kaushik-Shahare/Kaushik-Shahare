@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
-<h1 align="center">Hi 👋, I'm Kaushik Shahare</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h1 align="center">Hi, I'm Kaushik Shahare</h1>
+<h3 align="center">A Backend Software Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik-shahare&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik-shahare" /> </p>
@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushik-shahare" alt="kaushik-shahare" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
-- 🔭 I’m currently working on **AgriConnect**, **MiniMilitia Web**
+- I’m currently working on **LangGraph Project**, **autoDBDiagram(VSCode Extension)**.
 
-- 🌱 I’m currently learning **AI/ML, CI/CD**.
+- I’m currently learning **LangGraph**.
 
-- 📫 How to reach me **kaushikshahare4@gmail.com**
+- How to reach me **kaushikshahare4@gmail.com**
 - My portfolio site: [kaushikshahare.com](https://kaushikshahare.com)
 
 <h3 align="left">Connect with me:</h3>
