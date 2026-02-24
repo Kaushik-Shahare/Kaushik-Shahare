@@ -34,31 +34,49 @@ kaushik@server:~$ cat about.txt
 
 <div align="center">
   
-**Core & Languages**<br>
+**Core & Languages:**
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=4ade80&color=000000&labelColor=000000" alt="C++" />
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=4ade80&color=000000&labelColor=000000" alt="Java" />
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=4ade80&color=000000&labelColor=000000" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=4ade80&color=000000&labelColor=000000" alt="JavaScript" />
 
-<br>**Backend & Database**<br>
+**Backend Development:**
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=4ade80&color=000000&labelColor=000000" alt="Node JS" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=4ade80&color=000000&labelColor=000000" alt="Express JS" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=4ade80&color=000000&labelColor=000000" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=4ade80&color=000000&labelColor=000000" alt="Django" />
 <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=4ade80&color=000000&labelColor=000000" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=4ade80&color=000000&labelColor=000000" alt="Redis" />
-<img src="https://img.shields.io/badge/Celery-000000?style=flat-square&logo=celery&logoColor=4ade80&color=000000&labelColor=000000" alt="Celery" />
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=json&logoColor=4ade80&color=000000&labelColor=000000" alt="REST" />
+<img src="https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=4ade80&color=000000&labelColor=000000" alt="GraphQL" />
 
-<br>**DevOps & Cloud**<br>
+**Protocols & Communication:**
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-000000?style=flat-square&logo=http&logoColor=4ade80&color=000000&labelColor=000000" alt="HTTP/HTTPS" />
+<img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=4ade80&color=000000&labelColor=000000" alt="WebSockets" />
+<img src="https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=4ade80&color=000000&labelColor=000000" alt="gRPC" />
+<img src="https://img.shields.io/badge/SSE-000000?style=flat-square&logo=fastify&logoColor=4ade80&color=000000&labelColor=000000" alt="Server-Sent Events" />
+
+**Databases & Caching:**
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=4ade80&color=000000&labelColor=000000" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=4ade80&color=000000&labelColor=000000" alt="Redis" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4ade80&color=000000&labelColor=000000" alt="PostgreSQL" />
+
+**System Design & Arch:**
+<img src="https://img.shields.io/badge/System%20Design-000000?style=flat-square&logo=diagramsdotnet&logoColor=4ade80&color=000000&labelColor=000000" alt="System Design" />
+<img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=databricks&logoColor=4ade80&color=000000&labelColor=000000" alt="Microservices" />
+<img src="https://img.shields.io/badge/HLD%20%7C%20LLD-000000?style=flat-square&logo=awsorganizations&logoColor=4ade80&color=000000&labelColor=000000" alt="HLD & LLD" />
+
+**AI & Machine Learning:**
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat-square&logo=scikitlearn&logoColor=4ade80&color=000000&labelColor=000000" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Generative%20AI-000000?style=flat-square&logo=openai&logoColor=4ade80&color=000000&labelColor=000000" alt="Generative AI" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=4ade80&color=000000&labelColor=000000" alt="LangGraph" />
+<img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=weaviate&logoColor=4ade80&color=000000&labelColor=000000" alt="RAG" />
+
+**DevOps & Cloud:**
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=4ade80&color=000000&labelColor=000000" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=4ade80&color=000000&labelColor=000000" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=4ade80&color=000000&labelColor=000000" alt="Azure" />
 <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=4ade80&color=000000&labelColor=000000" alt="Kafka" />
+<img src="https://img.shields.io/badge/Celery-000000?style=flat-square&logo=celery&logoColor=4ade80&color=000000&labelColor=000000" alt="Celery" />
 <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=4ade80&color=000000&labelColor=000000" alt="CI/CD" />
-
-<br>**Frontend & Architecture**<br>
-<img src="https://img.shields.io/badge/ReactJS-000000?style=flat-square&logo=react&logoColor=4ade80&color=000000&labelColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/System%20Design-000000?style=flat-square&logo=diagramsdotnet&logoColor=4ade80&color=000000&labelColor=000000" alt="System Design" />
-<img src="https://img.shields.io/badge/AI%2C%20ML-000000?style=flat-square&logo=tensorflow&logoColor=4ade80&color=000000&labelColor=000000" alt="Machine Learning" />
 
 </div>
 
@@ -67,12 +85,7 @@ kaushik@server:~$ cat about.txt
 ### Telemetry Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-shahare&show_icons=true&bg_color=000000&title_color=4ade80&text_color=bbf7d0&icon_color=4ade80&border_color=4ade80" alt="Kaushik's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik-shahare&theme=dark&background=000000&fire=4ade80&ring=4ade80&currStreakLab=bbf7d0&sideNums=bbf7d0&currStreakNum=4ade80&sideLabels=bbf7d0&dates=bbf7d0&border=4ade80" alt="Kaushik's GitHub Streak" width="48%" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushik-shahare&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=4ade80&text_color=bbf7d0&border_color=4ade80" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik-shahare&theme=dark&background=000000&fire=4ade80&ring=4ade80&currStreakLab=bbf7d0&sideNums=bbf7d0&currStreakNum=4ade80&sideLabels=bbf7d0&dates=bbf7d0&border=4ade80" alt="Kaushik's GitHub Streak" />
 </div>
 
 <br>
