@@ -1,7 +1,7 @@
 <!-- Terminal-Themed GitHub Profile README -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ade80&center=true&vCenter=true&width=600&lines=Initializing+system...;Welcome+to+Kaushik's+Terminal;[kaushik@server:~]+$&plusmn;+whoami" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ade80&center=true&vCenter=true&width=600&lines=Initializing+system...;Welcome+to+Kaushik+Terminal;kaushik%40server%3A~%24+whoami" alt="Typing SVG" />
 
 # Hi, I'm Kaushik Shahare
 ### _Backend Software Developer & Founder_
@@ -67,17 +67,17 @@ kaushik@server:~$ cat about.txt
 ### Telemetry Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushik-Shahare&show_icons=true&bg_color=000000&title_color=4ade80&text_color=bbf7d0&icon_color=4ade80&border_color=4ade80" alt="Kaushik's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushik-Shahare&theme=dark&background=000000&fire=4ade80&ring=4ade80&currStreakLab=bbf7d0&sideNums=bbf7d0&currStreakNum=4ade80&sideLabels=bbf7d0&dates=bbf7d0&border=4ade80" alt="Kaushik's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-shahare&show_icons=true&bg_color=000000&title_color=4ade80&text_color=bbf7d0&icon_color=4ade80&border_color=4ade80" alt="Kaushik's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik-shahare&theme=dark&background=000000&fire=4ade80&ring=4ade80&currStreakLab=bbf7d0&sideNums=bbf7d0&currStreakNum=4ade80&sideLabels=bbf7d0&dates=bbf7d0&border=4ade80" alt="Kaushik's GitHub Streak" width="48%" />
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaushik-Shahare&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=4ade80&text_color=bbf7d0&border_color=4ade80" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushik-shahare&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=4ade80&text_color=bbf7d0&border_color=4ade80" alt="Top Languages" />
 </div>
 
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaushik-Shahare&label=Profile%20views&color=4ade80&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kaushik-shahare&label=Profile%20views&color=4ade80&style=flat-square" alt="Profile views" />
 </div>
 
 <!-- Matrix Code Effect (subtle background feel) -->
