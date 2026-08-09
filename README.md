@@ -7,7 +7,7 @@
 ### _Backend Software Developer & Founder_
 
 <p>
-<a href="https://linkedin.com/in/kaushik-shahare-84bba7267"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4ade80&borderColor=4ade80" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/kaushik-shahare"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4ade80&borderColor=4ade80" alt="LinkedIn" /></a>
 <a href="https://kaushikshahare.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=4ade80&borderColor=4ade80" alt="Portfolio" /></a>
 <a href="https://youtube.com/@Kaushik-Shahare"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=4ade80&borderColor=4ade80" alt="YouTube" /></a>
 <a href="https://instagram.com/0_kaushik_"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=4ade80&borderColor=4ade80" alt="Instagram" /></a>
